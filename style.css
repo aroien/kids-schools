@@ -315,12 +315,13 @@ h1 {
 
 .footer-links {
   flex: 1;
-  min-width: 200px;
 }
 
 .footer-links ul {
+  
+  text-align: center;
   list-style: none;
-  padding: 0;
+  padding: 0px;
 }
 
 .footer-links li {
